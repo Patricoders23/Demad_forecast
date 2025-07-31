@@ -1,4 +1,4 @@
-echo "# Predicción de la demanda eléctrica en España ⚡📈
+# Predicción de la demanda eléctrica en España ⚡📈
 
 Este repositorio contiene un proyecto de análisis y predicción de la demanda eléctrica en el sistema peninsular español. El objetivo es construir un pipeline de datos con fuentes abiertas como REE (Red Eléctrica Española) y AEMET (Agencia Estatal de Meteorología), con el fin de realizar análisis exploratorios y modelos predictivos.
 
