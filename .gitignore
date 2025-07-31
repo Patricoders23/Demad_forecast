@@ -1,0 +1,12 @@
+# Ignorar entorno virtual y cachés de Python
+venv/
+__pycache__/
+*.pyc
+
+# Archivos del sistema y temporales de Jupyter
+.DS_Store
+.ipynb_checkpoints/
+*.log
+
+# Variables de entorno
+.env
