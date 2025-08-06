@@ -15,5 +15,3 @@ Este repositorio contiene un proyecto de análisis y predicción de la demanda e
 - Visualizaciones interactivas
 - Modelos explicativos y predictivos
 - Despliegue en una app ligera
-
-" > README.md
